@@ -1,7 +1,5 @@
-# ishmiyarovarsen.github.io
-Сайт-визитка HTML, CSS
 ## Привет！ 👋
-Меня зовут Арсен, я QA Engineer из Уфы. Пишу статьи о системах, сетях и устройствах телекоммуникаций, ссылка на ORCID в BIO. 
+На связи Арсен, я QA Engineer из Уфы, кандидат технических наук. Пишу статьи о сетях, системах и устройствах телекоммуникаций, ссылка на ORCID в BIO. 
 
 ## 📊 Статистика
 
@@ -79,14 +77,13 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.png)
-[<img src="/certificate3.png" width="280px" hspace="10px" alt="Сертификат 4fresh»">](https://.png)
+[<img src="/0b2453480da.png" width="280px" hspace="10px" alt="Сертификат о прохождении базового курса»">](https://raw.githubusercontent.com/ishmiyarovarsen/ishmiyarovarsen.github.io/refs/heads/main/0b2453480da.png)
+
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma-with-number_ru.png" width="280px" hspace="10px" alt="Диплом»">](https://.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://.png)
+Пока пусто
 
 <br>
 <br>
